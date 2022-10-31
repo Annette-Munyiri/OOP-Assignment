@@ -1,5 +1,5 @@
-//SCM211-0269/2021
-// Group Name: 
+// SCM211-0269/2021
+// Group Name: Panda Warriors
 import java.awt.*;
 
 import javax.swing.*;
